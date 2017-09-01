@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:flax_lib
 LIBS:hot_silicon_fuzz-cache
 EELAYER 25 0
 EELAYER END
